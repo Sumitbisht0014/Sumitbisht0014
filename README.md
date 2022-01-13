@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sumitbisht0014
-- 👀 I’m interested in Learning C# stack with all cloud solutions
+- 👀 C# Developer, Python-Flask Developer, intersted in designing solutions 
 - 🌱 I’m currently learning Azure and Power BI
+- 👀 Biased with Python Framweorks
 - 💞️ I’m looking to collaborate on Web Applications or APIs
 - 📫 Reach me at sumitbisht0014@gmail.com
 
