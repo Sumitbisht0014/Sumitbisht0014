@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumitbisht0014
 - 👀 C# Developer, Python-Flask Developer, intersted in designing solutions 
-- Working as Dotnet Core Developer with Cloud Solutions (3,5,6)
+- ✨ Working as Dotnet Core Developer with Cloud Solutions (3,5,6)
 - 🌱 Power BI Developer 
 - 👀 Biased with Python Framweorks
 - 💞️ I’m looking to collaborate on Web Applications or APIs
